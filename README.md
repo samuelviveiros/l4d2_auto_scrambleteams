@@ -11,7 +11,7 @@ This plugin mixes the players in the teams, and is always executed on the first 
 https://forums.alliedmods.net/showthread.php?p=1029519
 
 
-## CONVARS
+## CONVARS:
 
 In Left 4 Dead 2, the CFG file is located in left4dead2/cfg/sourcemod/l4d2_auto_scrambleteams.cfg
 
