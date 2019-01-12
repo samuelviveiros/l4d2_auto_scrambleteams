@@ -16,7 +16,7 @@ https://forums.alliedmods.net/showthread.php?p=1029519
 In Left 4 Dead 2, the CFG file is located in left4dead2/cfg/sourcemod/l4d2_auto_scrambleteams.cfg
 
 - l4d2_auto_scrambleteams_version - The version of this plugin.
-- l4d2_auto_scrambleteams_delay - How long to mix the teams after the gameplay begins.
+- l4d2_auto_scrambleteams_delay - How long to mix the teams after the gameplay begins (value in seconds).
 - l4d2_auto_scrambleteams_enable - Enable or disable this plugin.
 
 
