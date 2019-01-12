@@ -35,7 +35,7 @@ public Plugin myinfo = {
 	description = "This plugin mixes the players in the teams",
 	author      = "samuelviveiros a.k.a Dartz8901",
 	version     = PLUGIN_VERSION,
-	url         = "https://github.com/samuelviveiros/l4d_auto_scrambleteams"
+	url         = "https://github.com/samuelviveiros/l4d2_auto_scrambleteams"
 };
 
 Handle g_hScrambleDelay = null;
